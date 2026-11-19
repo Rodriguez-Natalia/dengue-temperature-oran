@@ -1,0 +1,6 @@
+{
+ "periodo": "2000-2022",
+ "metodo": "maxima verosimilitud",
+ "espaciado": 3,
+ "factor_correccion": 0.7
+}

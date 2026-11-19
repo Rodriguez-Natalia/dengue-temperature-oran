@@ -1,0 +1,15 @@
+temporada tipo k_recalibrado total_sim total_real
+2009 ajustar 353.13 396.97 397.0
+2010 ajustar 204.38 73.97 74.0
+2011 placeholder 150.0 0.0 2.0
+2012 ajustar 602.33 35.0 35.0
+2013 ajustar 375.87 110.97 111.0
+2014 ajustar 451.11 297.89 298.0
+2015 placeholder 150.0 0.0 1.0
+2016 ajustar 731.83 708.82 709.0
+2017 ajustar 174.31 109.95 110.0
+2018 ajustar 307.25 79.0 79.0
+2019 ajustar 208.93 292.95 293.0
+2020 ajustar 328.67 750.94 751.0
+2021 ajustar 434.93 1073.94 1074.0
+2022 ajustar 62.95 16.0 16.0
